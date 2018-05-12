@@ -44,7 +44,7 @@ namespace Homework01
                 else
                 {
                     Console.WriteLine("Retireing age: 65");
-                    Console.WriteLine($"Years till retirement: {64 - age}");
+                    Console.WriteLine($"Years till retirement: {65 - age}");
                 }
             else
                      if (age >= 63)
